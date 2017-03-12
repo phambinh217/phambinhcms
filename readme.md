@@ -64,7 +64,4 @@ Multiple languages
 ![Imgur](http://i.imgur.com/S2q4hAA.png)
 
 ## Thank you
-<<<<<<< HEAD
 This is beta version, there are many bugs, we will update regularly.
-=======
->>>>>>> 28038a333f61010f7af0bc920d7873dd3aeabe1b
