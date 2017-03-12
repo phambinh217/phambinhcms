@@ -37,9 +37,14 @@ Modular
 
 Multiple languages
 
+<<<<<<< HEAD
 ## Support
 [Facebook.com/phambinh217](https://www.facebook.com/phambinh217)
 [Facebook group](https://www.facebook.com/groups/laravel.phambinhcms)
+=======
+## Author
+[Facebook.com/phambinh217](https://www.facebook.com/phambinh217)
+>>>>>>> 28038a333f61010f7af0bc920d7873dd3aeabe1b
 
 ## Screen shot
 ![Imgur](http://i.imgur.com/L3leUwa.png)
@@ -59,4 +64,7 @@ Multiple languages
 ![Imgur](http://i.imgur.com/S2q4hAA.png)
 
 ## Thank you
+<<<<<<< HEAD
 This is beta version, there are many bugs, we will update regularly.
+=======
+>>>>>>> 28038a333f61010f7af0bc920d7873dd3aeabe1b
