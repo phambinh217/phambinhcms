@@ -3,7 +3,7 @@
 ## Install
 1, Clone or download zip
 
-2, run php artisan serve
+2, run `php artisan serve`
 
 3, go to `localhost:8000/install` to install cms
 
@@ -58,4 +58,3 @@ Multiple languages
 ![Imgur](http://i.imgur.com/S2q4hAA.png)
 
 ## Thank you
-
