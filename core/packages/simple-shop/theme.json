@@ -1,0 +1,8 @@
+{
+    "alias": "baseshop",
+    "name": "baseshop",
+    "author": "noname",
+    "description": "baseshop",
+    "version": "1.0",
+    "autoload": "psr-4"
+}

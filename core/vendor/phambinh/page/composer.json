@@ -1,0 +1,19 @@
+{
+    "name": "phambinh/page",
+    "description": "Phambinhcms page module",
+    "homepage": "https://github.com/phambinh217/page",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phambinh217",
+            "email": "phambinh217@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phambinh\\Page\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

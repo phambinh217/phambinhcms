@@ -1,0 +1,14 @@
+<?php
+
+namespace DummyNamespace;
+
+use Illuminate\Http\Request;
+use AppController;
+
+class DummyClass extends AppController
+{
+    public function __construct()
+    {
+        parent::__construct();
+    }
+}

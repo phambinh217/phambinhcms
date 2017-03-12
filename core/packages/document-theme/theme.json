@@ -1,0 +1,8 @@
+{
+    "alias": "document-theme",
+    "name": "document-theme",
+    "author": "noname",
+    "description": "document-theme",
+    "version": "1.0",
+    "autoload": "psr-4"
+}

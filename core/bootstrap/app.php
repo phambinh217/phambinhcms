@@ -11,7 +11,7 @@
 |
 */
 
-$app = new Packages\Cms\Application(
+$app = new Phambinh\Cms\Application(
     realpath(__DIR__.'/../')
 );
 

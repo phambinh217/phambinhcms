@@ -11,11 +11,11 @@ class ComposerStaticInita7f5bf557c3b9d3dc20dafcca7977d3a
         '667aeda72477189d0494fecd327c3641' => __DIR__ . '/..' . '/symfony/var-dumper/Resources/functions/dump.php',
         '2c102faa651ef8ea5874edb585946bce' => __DIR__ . '/..' . '/swiftmailer/swiftmailer/lib/swift_required.php',
         '5255c38a0faeba867671b61dfda6d864' => __DIR__ . '/..' . '/paragonie/random_compat/lib/random.php',
-        'e7223560d890eab89cda23685e711e2c' => __DIR__ . '/..' . '/psy/psysh/src/Psy/functions.php',
         'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
+        'e7223560d890eab89cda23685e711e2c' => __DIR__ . '/..' . '/psy/psysh/src/Psy/functions.php',
+        'f18cc91337d49233e5754e93f3ed9ec3' => __DIR__ . '/..' . '/laravelcollective/html/src/helpers.php',
         'f0906e6318348a765ffb6eb24e0d0938' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Foundation/helpers.php',
         '58571171fd5812e6e447dce228f52f4d' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Support/helpers.php',
-        'f18cc91337d49233e5754e93f3ed9ec3' => __DIR__ . '/..' . '/laravelcollective/html/src/helpers.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -52,12 +52,12 @@ class ComposerStaticInita7f5bf557c3b9d3dc20dafcca7977d3a
             'Psr\\Log\\' => 8,
             'Psr\\Http\\Message\\' => 17,
             'PhpParser\\' => 10,
-            'Packages\\Page\\' => 14,
-            'Packages\\News\\' => 14,
-            'Packages\\FbComment\\' => 19,
-            'Packages\\Cms\\' => 13,
-            'Packages\\CmsInstall\\' => 20,
-            'Packages\\Appearance\\' => 20,
+            'Phambinh\\Page\\' => 14,
+            'Phambinh\\News\\' => 14,
+            'Phambinh\\FbComment\\' => 19,
+            'Phambinh\\Cms\\' => 13,
+            'Phambinh\\CmsInstall\\' => 20,
+            'Phambinh\\Appearance\\' => 20,
         ),
         'M' => 
         array (
@@ -171,29 +171,29 @@ class ComposerStaticInita7f5bf557c3b9d3dc20dafcca7977d3a
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
-        'Packages\\Page\\' => 
+        'Phambinh\\Page\\' => 
         array (
-            0 => __DIR__ . '/../../..' . '/core/packages/page/src',
+            0 => __DIR__ . '/..' . '/phambinh/page/src',
         ),
-        'Packages\\News\\' => 
+        'Phambinh\\News\\' => 
         array (
-            0 => __DIR__ . '/../../..' . '/core/packages/news/src',
+            0 => __DIR__ . '/..' . '/phambinh/news/src',
         ),
-        'Packages\\FbComment\\' => 
+        'Phambinh\\FbComment\\' => 
         array (
-            0 => __DIR__ . '/../../..' . '/core/packages/fb-comment/src',
+            0 => __DIR__ . '/..' . '/phambinh/fb-comment/src',
         ),
-        'Packages\\Cms\\' => 
+        'Phambinh\\Cms\\' => 
         array (
-            0 => __DIR__ . '/../../..' . '/core/packages/cms/src',
+            0 => __DIR__ . '/..' . '/phambinh/cms/src',
         ),
-        'Packages\\CmsInstall\\' => 
+        'Phambinh\\CmsInstall\\' => 
         array (
-            0 => __DIR__ . '/../../..' . '/core/packages/cms-install/src',
+            0 => __DIR__ . '/..' . '/phambinh/cms-install/src',
         ),
-        'Packages\\Appearance\\' => 
+        'Phambinh\\Appearance\\' => 
         array (
-            0 => __DIR__ . '/../../..' . '/core/packages/appearance/src',
+            0 => __DIR__ . '/..' . '/phambinh/appearance/src',
         ),
         'Monolog\\' => 
         array (

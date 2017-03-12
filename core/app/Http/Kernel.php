@@ -34,7 +34,7 @@ class Kernel extends HttpKernel
             \Illuminate\View\Middleware\ShareErrorsFromSession::class,
             \App\Http\Middleware\VerifyCsrfToken::class,
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
-            \Packages\CmsInstall\Http\Middleware\Installed::class,
+            \Phambinh\CmsInstall\Http\Middleware\Installed::class,
         ],
 
         'web.not-install' => [

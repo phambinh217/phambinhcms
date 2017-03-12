@@ -1,0 +1,19 @@
+{
+    "name": "phambinh/fb-comment",
+    "description": "Phambinhcms facebook comment module",
+    "homefacebook comment": "https://github.com/phambinh217/fb-comment",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phambinh217",
+            "email": "phambinh217@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phambinh\\FbComment\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

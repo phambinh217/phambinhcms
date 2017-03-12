@@ -1,0 +1,8 @@
+{
+    "alias": "document",
+    "name": "document",
+    "author": "noname",
+    "description": "document",
+    "version": "1.0",
+    "autoload": "psr-4"
+}

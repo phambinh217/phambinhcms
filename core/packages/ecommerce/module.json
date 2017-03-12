@@ -1,0 +1,8 @@
+{
+    "alias": "shop",
+    "name": "Cửa hàng",
+    "author": "Packages",
+    "description": "Cung cấp chức năng bán hàng, quản lí sản phẩm, danh mục sản phẩm, thương hiệu....",
+    "version": "1.0",
+    "autoload": "psr-4"
+}

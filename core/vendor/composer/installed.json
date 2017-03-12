@@ -2260,5 +2260,226 @@
         ],
         "description": "Symfony Translation Component",
         "homepage": "https://symfony.com"
+    },
+    {
+        "name": "phambinh/cms",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phambinh217/cms.git",
+            "reference": "7aaf6154bc3f5186c2e22daf0f76e670b16be32b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phambinh217/cms/zipball/7aaf6154bc3f5186c2e22daf0f76e670b16be32b",
+            "reference": "7aaf6154bc3f5186c2e22daf0f76e670b16be32b",
+            "shasum": ""
+        },
+        "require": {
+            "intervention/image": "^2.3",
+            "ixudra/curl": "6.*",
+            "laravelcollective/html": "^5.3.0",
+            "studio-42/elfinder": "^2.1.0"
+        },
+        "time": "2017-03-12 12:46:44",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Phambinh\\Cms\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "phambinh217",
+                "email": "phambinh217@gmail.com"
+            }
+        ],
+        "description": "Phambinhcms base content manage system for laravel",
+        "homepage": "https://github.com/phambinh217/cms"
+    },
+    {
+        "name": "phambinh/cms-install",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phambinh217/cms-install.git",
+            "reference": "2ed92897b1cd9511bdcf5c1d2d453afe190c2f20"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phambinh217/cms-install/zipball/2ed92897b1cd9511bdcf5c1d2d453afe190c2f20",
+            "reference": "2ed92897b1cd9511bdcf5c1d2d453afe190c2f20",
+            "shasum": ""
+        },
+        "time": "2017-03-12 12:52:18",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Phambinh\\CmsInstall\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "phambinh217",
+                "email": "phambinh217@gmail.com"
+            }
+        ],
+        "description": "Phambinhcms-install base content manage system for laravel",
+        "homepage": "https://github.com/phambinh217/cms-install"
+    },
+    {
+        "name": "phambinh/appearance",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phambinh217/appearance.git",
+            "reference": "51f30b0f34e918a9e2f94008ffad4cfc56005f32"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phambinh217/appearance/zipball/51f30b0f34e918a9e2f94008ffad4cfc56005f32",
+            "reference": "51f30b0f34e918a9e2f94008ffad4cfc56005f32",
+            "shasum": ""
+        },
+        "time": "2017-03-12 12:45:43",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Phambinh\\Appearance\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "phambinh217",
+                "email": "phambinh217@gmail.com"
+            }
+        ],
+        "description": "appearance",
+        "homepage": "https://github.com/phambinh217/appearance"
+    },
+    {
+        "name": "phambinh/news",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phambinh217/news.git",
+            "reference": "98a6eae8b6e9fb39015c6690b39a1fda21bb13a8"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phambinh217/news/zipball/98a6eae8b6e9fb39015c6690b39a1fda21bb13a8",
+            "reference": "98a6eae8b6e9fb39015c6690b39a1fda21bb13a8",
+            "shasum": ""
+        },
+        "time": "2017-03-12 12:55:07",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Phambinh\\News\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "phambinh217",
+                "email": "phambinh217@gmail.com"
+            }
+        ],
+        "description": "Phambinhcms news module",
+        "homepage": "https://github.com/phambinh217/news"
+    },
+    {
+        "name": "phambinh/page",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phambinh217/page.git",
+            "reference": "9d30e4b6565d81027ddd8f5f296e83f56f033339"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phambinh217/page/zipball/9d30e4b6565d81027ddd8f5f296e83f56f033339",
+            "reference": "9d30e4b6565d81027ddd8f5f296e83f56f033339",
+            "shasum": ""
+        },
+        "time": "2017-02-26 04:01:29",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Phambinh\\Page\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "phambinh217",
+                "email": "phambinh217@gmail.com"
+            }
+        ],
+        "description": "Phambinhcms page module",
+        "homepage": "https://github.com/phambinh217/page"
+    },
+    {
+        "name": "phambinh/fb-comment",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phambinh217/fb-comment.git",
+            "reference": "6e9b91a83324f2c62dbf9bd4c858395890092b30"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phambinh217/fb-comment/zipball/6e9b91a83324f2c62dbf9bd4c858395890092b30",
+            "reference": "6e9b91a83324f2c62dbf9bd4c858395890092b30",
+            "shasum": ""
+        },
+        "time": "2017-03-12 13:58:40",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Phambinh\\FbComment\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "phambinh217",
+                "email": "phambinh217@gmail.com"
+            }
+        ],
+        "description": "Phambinhcms facebook comment module"
     }
 ]

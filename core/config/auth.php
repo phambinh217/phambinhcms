@@ -67,7 +67,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => Packages\Cms\User::class,
+            'model' => Phambinh\Cms\User::class,
         ],
 
         // 'users' => [

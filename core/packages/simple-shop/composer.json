@@ -1,0 +1,18 @@
+{
+    "name": "Packages/simpleshop",
+    "homepage": "https://github.com/Packages217/simpleshop",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Packages217",
+            "email": "Packages217@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Packages\\SimpleShop\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
