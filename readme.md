@@ -1,7 +1,9 @@
 # Phambinhcms
 
 ## Install
+
 1, run php artisan serve
+
 2, go to `localhost:8000/install`
 
 ## Features
