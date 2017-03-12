@@ -1,0 +1,8 @@
+{
+    "alias": "fb-comment",
+    "name": "fb-comment",
+    "author": "noname",
+    "description": "fb-comment",
+    "version": "1.0",
+    "autoload": "psr-4"
+}

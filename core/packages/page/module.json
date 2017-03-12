@@ -1,0 +1,8 @@
+{
+    "alias": "page",
+    "name": "page",
+    "author": "noname",
+    "description": "page",
+    "version": "1.0",
+    "autoload": "psr-4"
+}

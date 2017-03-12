@@ -1,0 +1,8 @@
+{
+    "alias": "install",
+    "name": "install",
+    "author": "noname",
+    "description": "install",
+    "version": "1.0",
+    "autoload": "psr-4"
+}

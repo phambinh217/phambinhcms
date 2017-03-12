@@ -1,0 +1,8 @@
+{
+    "alias": "user",
+    "name": "Quản lí người dùng",
+    "author": "Packages",
+    "description": "Cung cấp các hàm và lớp cơ bản để quản lí người dùng",
+    "version": "1.0",
+    "autoload": "psr-4"
+}
