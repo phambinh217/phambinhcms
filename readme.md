@@ -18,6 +18,19 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 
 [Facebook group](https://www.facebook.com/groups/laravel.phambinhcms)
 
+
+## Tính năng nổi bật
+* Laravel 5.4
+* Template admin metronic material
+* Cài đặt đơn giản (Có giao diện)
+* Cấu trúc modular
+* Validate form nhanh chóng
+* Đa ngôn ngữ
+* Tích hợp trình soạn thảo tinymce và trình quản lí file elfinder
+* Liên tục cập nhật và lắng nghe ý kiến từ cộng đồng
+* ...
+
+
 ## Ảnh chụp màn hình
 ![Imgur](http://i.imgur.com/L3leUwa.png)
 
