@@ -1,50 +1,24 @@
 # Phambinhcms
+Phambinhcms đơn giản giống như một start project đối với dự án laravel framework. Nó cung cấp các chức năng cơ bản của một một dự án thông thường như:
+* Quản lí thành viên
+* Phân quyền thành viên
+* Quản lí tin tức
+* Quản lí các bài giới thiệu
+* Menu
+* ...
+[Đọc tiếp](docs/intro.md)
 
-## Install
-1, Clone or download zip
+# Tài liệu
+* [Giới thiệu](docs/intro.md)
+* [Cài đặt](docs/install.md)
 
-2, run `php artisan serve`
+## Hỗ trợ
 
-3, go to `localhost:8000/install` to install cms
-
-**Note** The repo include packages of composer, you don't need install its
-
-## Features
-
-Laravel 5.4
-
-Metronic admin template
-
-ALC
-
-News
-
-Page
-
-Menu
-
-Profile
-
-Setting
-
-Api token
-
-File manage
-
-Facebook comment
-
-Modular
-
-Multiple languages
-
-
-## Support
-
-[Facebook.com/phambinh217](https://www.facebook.com/phambinh217)
+[Facebook.com/phambinh217 - Facebook tác giả](https://www.facebook.com/phambinh217)
 
 [Facebook group](https://www.facebook.com/groups/laravel.phambinhcms)
 
-## Screen shot
+## Ảnh chụp màn hình
 ![Imgur](http://i.imgur.com/L3leUwa.png)
 
 ![Imgur](http://i.imgur.com/trBOc5i.png)
@@ -61,5 +35,6 @@ Multiple languages
 
 ![Imgur](http://i.imgur.com/S2q4hAA.png)
 
-## Thank you
-This is beta version, there are many bugs, we will update regularly.
+## Từ tác giả
+Cảm ơn bạn đã sử dụng Phambinhcms, hoặc ít ra bạn đã bỏ chút thời gian để ghé qua repo này :))
+Phambinhcms đang trong thời gian hoàn thiện và phát triển, chúng tôi rất mong nhận được ý kiến đóng góp của các bạn.
