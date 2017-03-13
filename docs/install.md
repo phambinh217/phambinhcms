@@ -33,6 +33,9 @@ Truy cập
 
 `localhost:8000/admin`
 
-để quản trị website
+để quản trị website.
+
+
+**Lưu ý: Phambinhcms sử dụng địa chỉ email để đăng nhập**
 
 Xin cảm ơn.
