@@ -52,3 +52,8 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 ## Từ tác giả
 Cảm ơn bạn đã sử dụng Phambinhcms, hoặc ít ra bạn đã bỏ chút thời gian để ghé qua repo này :))
 Phambinhcms đang trong thời gian hoàn thiện và phát triển, chúng tôi rất mong nhận được ý kiến đóng góp của các bạn.
+
+## Tham khảo
+Tính đến phiên bản này, CMS có tham khảo
+* Wordpress
+* Webed
