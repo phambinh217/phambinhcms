@@ -1,0 +1,17 @@
+<?php
+
+namespace DummyNamespace;
+
+use WebEd\Base\Core\Http\Requests\Request;
+
+class DummyClass extends Request
+{
+    public $rules = [
+
+    ];
+
+    public function authorize()
+    {
+        return true;
+    }
+}

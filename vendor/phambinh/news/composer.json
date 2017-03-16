@@ -1,0 +1,25 @@
+{
+    "name": "phambinh/news",
+    "description": "Phambinhcms news module",
+    "authors": [
+        {
+            "name": "phambinh217",
+            "email": "phambinh217@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phambinh\\News\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+    ,
+    "extra": {
+        "phambinhcms-module": {
+            "type": "module",
+            "alias": "news",
+            "name": "news"
+        }
+    }
+}

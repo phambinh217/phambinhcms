@@ -1,0 +1,221 @@
+a:hover {
+  text-decoration: none;
+}
+
+.page-header.navbar .page-logo .logo-default {
+  max-width: 150px;
+  margin-top: 10px;
+}
+
+.pagination {
+  margin: 0;
+}
+
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+  vertical-align: middle;
+}
+
+.table a.asc:after {
+  content: " \f107";
+  font-family: FontAwesome;
+  font-size: 14px;
+}
+
+.table a.desc:after {
+  content: " \f106";
+  font-family: FontAwesome;
+  font-size: 14px;
+}
+
+.dropdown-menu.r-0,
+.r-0 {
+  right: 0;
+}
+
+.portlet-group .portlet {
+  margin-bottom: 5px;
+}
+
+.master-table {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+}
+
+.panel-heading .accordion-toggle {
+  display: block;
+}
+
+.hover-display-container .hover-display {
+  visibility: hidden;
+}
+
+.hover-display-container:hover .hover-display {
+  visibility: visible;
+}
+
+.master-tab {
+  border-bottom: 3px solid #eee;
+  margin-bottom: 15px;
+}
+
+.master-tab .nav-tabs {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+
+.master-tab .nav-tabs > li > a,
+.master-tab .nav-tabs > li.active > a,
+.master-tab .nav > li > a:focus,
+.master-tab .nav > li > a:hover,
+.master-tab .nav-tabs > li > a:hover,
+.master-tab .nav-tabs > li.active > a:focus,
+.master-tab .nav-tabs > li.active > a:hover {
+  background: none;
+  border: none;
+  padding: 15px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.master-tab .nav-tabs > li.active > a,
+.master-tab .nav > li > a:focus,
+.master-tab .nav > li > a:hover,
+.master-tab .nav-tabs > li > a:hover,
+.master-tab .nav-tabs > li.active > a:focus,
+.master-tab .nav-tabs > li.active > a:hover {
+  border-bottom: 3px solid #03b3b2;
+  margin-bottom: -2px;
+}
+
+.master-tab .nav > li {
+  display: inline-block;
+}
+
+.master-tab .nav-tabs > li {
+  float: none;
+}
+
+.master-tab .nav-tabs > li.active a:hover:after,
+.master-tab .nav-tabs > li.active a:after {
+  width: 0;
+  height: 0;
+  content: " ";
+  border-style: solid;
+  border-width: 0 6px 6px 6px;
+  border-color: transparent transparent #03b3b2 transparent;
+  position: absolute;
+  bottom: 0;
+  left: 43%;
+}
+
+.tab-default > .nav-tabs {
+  background: #f5f6f7;
+  border-bottom: 1px solid transparent;
+}
+
+.tab-default > .nav-tabs > li > a {
+  border-radius: 0;
+  margin-right: 0;
+  color: #333;
+}
+
+.tab-default > .nav-tabs > li > a:hover {
+  border-bottom: 1px solid transparent;
+}
+
+.tab-default > .nav-tabs > li.active > a,
+.tab-default > .nav-tabs > li.active > a:hover,
+.tab-default > .nav-tabs > li.active > a:focus {
+  border: 1px solid transparent;
+  border-right: 1px solid #ebeef0;
+}
+
+.portlet.light.form-fit > .portlet-title.with-tab {
+  padding: 0;
+}
+
+.portlet.light > .portlet-title.with-tab {
+  height: auto;
+  min-height: auto;
+}
+
+.portlet.light > .portlet-title.with-tab .nav-tabs, .nav-pills {
+  margin-bottom: 0;
+}
+
+.unstyle-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.text-sm {
+  font-size: 13px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.pr-0 {
+  padding-right: 0;
+}
+
+.pl-0 {
+  padding-left: 0;
+}
+
+.pl-15 {
+  padding-left: 15px;
+}
+
+.pr-15 {
+  padding-right: 15px;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.width-auto {
+  width: auto;
+}
+
+.cur-move {
+  cursor: move;
+}
+
+@media (min-width: 992px) {
+  .page-content-wrapper .page-content {
+    padding: 0px 0 0 20px;
+  }
+  .md-pr-0 {
+    padding-right: 0;
+  }
+  .md-pl-0 {
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .full-width-xs {
+    width: 100%;
+  }
+}

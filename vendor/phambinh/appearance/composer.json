@@ -1,0 +1,23 @@
+{
+    "name": "phambinh/appearance",
+    "description": "appearance",
+    "authors": [
+        {
+            "name": "phambinh217",
+            "email": "phambinh217@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phambinh\\Appearance\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "phambinhcms-module": {
+            "type": "module",
+            "alias": "appearance",
+            "name": "Appearance"
+        }
+    }
+}
