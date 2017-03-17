@@ -14,7 +14,7 @@ class EnvReader
 
         foreach ($contents as $i => $row) {
             if (trim($row) != '') {
-                $key_value = explode('=', $row);
+                $key_value = explode('=', $row, 2);
                 list($key, $value) = $key_value;
                 $this->env[$key] = $value;
             } else {

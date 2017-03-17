@@ -81,6 +81,8 @@ class InstallController extends \App\Http\Controllers\Controller
     {
         $info = json_decode(file_get_contents(base_path('info.json')));
 
+        \Artisan::call('migrate', ['--force' => true]);
+        
         \Install::migrate();
         \Install::markAsInstalled();
         \Install::createUser(\Install::createRole('Super Admin'), $info->email, $info->password, $info->username);
