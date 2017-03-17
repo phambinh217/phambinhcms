@@ -1,4 +1,15 @@
-# Phambinhcms
+# Mục lục
+* [Phambinhcms](#phambinhcms)
+* [Tài liệu](#docs)
+* [Hỗ trợ](#support)
+* [Tính năng nổi bật](#feature)
+* [Packages chính thức](#packages)
+* [Ảnh chụp màn hình](#images)
+* [Từ tác giả](#from-author)
+* [Nhật ký thay đổi](#changelog)
+* [Tham khảo](#refer)
+
+## [Phambinhcms](#phambinhcms)
 Phambinhcms đơn giản giống như một start project đối với dự án laravel framework. Nó cung cấp các chức năng cơ bản của một một dự án thông thường như:
 * Quản lí thành viên
 * Phân quyền thành viên
@@ -8,19 +19,18 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 * ...
 [Đọc tiếp](docs/intro.md)
 
-# Tài liệu
+## [Tài liệu](#docs)
 * [Giới thiệu](docs/intro.md)
 * [Cài đặt](docs/install.md)
 * (Đang phát triển)
 
-## Hỗ trợ
+## [Hỗ trợ](#support)
 
 [Facebook.com/phambinh217 - Facebook tác giả](https://www.facebook.com/phambinh217)
 
 [Facebook group](https://www.facebook.com/groups/laravel.phambinhcms)
 
-
-## Tính năng nổi bật
+## [Tính năng nổi bật](#feature)
 * Laravel 5.4
 * Template admin metronic material
 * Cài đặt đơn giản (Có giao diện)
@@ -31,8 +41,13 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 * Liên tục cập nhật và lắng nghe ý kiến từ cộng đồng
 * ...
 
+## Packages chính thức
+* [Appearance](https://github.com/phambinh217/appearance)
+* [News](https://github.com/phambinh217/news)
+* [Page](https://github.com/phambinh217/page)
+* [Facebook Comment](https://github.com/phambinh217/fb-comment)
 
-## Ảnh chụp màn hình
+## [Ảnh chụp màn hình](#images)
 ![Imgur](http://i.imgur.com/L3leUwa.png)
 
 ![Imgur](http://i.imgur.com/trBOc5i.png)
@@ -49,11 +64,15 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 
 ![Imgur](http://i.imgur.com/S2q4hAA.png)
 
-## Từ tác giả
+## [Từ tác giả](#from-author)
 Cảm ơn bạn đã sử dụng Phambinhcms, hoặc ít ra bạn đã bỏ chút thời gian để ghé qua repo này :))
 Phambinhcms đang trong thời gian hoàn thiện và phát triển, chúng tôi rất mong nhận được ý kiến đóng góp của các bạn.
 
-## Tham khảo
+## [Nhật ký thay đổi](#changelog)
+* [beta 0.2](docs/changelog.md#beta-02)
+
+## [Tham khảo](#refer)
 Tính đến phiên bản này, CMS có tham khảo
-* Wordpress
-* Webed
+* [Canvas](#)
+* [Webed](#)
+* [Wordpress](#)

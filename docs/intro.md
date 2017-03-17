@@ -12,3 +12,5 @@ Phambinhcms sử dụng trên nền tảng [laravel 5.4](http://laravel.com) (Ph
 
 Phambinhcms được tổ chức dưới dạng các module, mỗi module là một chức năng, nếu bạn thấy dự án của mình không cần thiết với chức năng nào mà Phambinhcms cung cấp sẵn thì bạn hoàn toàn có thể gỡ module đó ra mà không làm ảnh hưởng đến sự vận hành của mã nguồn.
 
+# Cách hoạt động của Phambinhcms
+Phambinhcms được đóng gói thành packages nằm tại `vendor/phambinh/cms`, và kết nối với laravel thông qua provider `Phambinh\Cms\Providers\ModuleServiceProvider::class`. Tại provider này, tiếp tục load thêm nhiều thành phần khác mà bạn có thể xem tại `config/cms.php`

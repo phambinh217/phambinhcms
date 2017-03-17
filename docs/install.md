@@ -4,7 +4,9 @@ Hiện tại Phambinhcms mới chỉ có mặt trên github, bạn có thể dow
 **Clone**
 `git clone https://github.com/phambinh217/phambinhcms.git`
 
-Sau khi có được repo trên máy, các bạn mở trong source tìm có đến file `artisan`. Tại đây bạn mở cửa sổ dòng lệnh và tiến hành chạy
+**Cài đặt phía website**
+
+Sau khi có được repo trên máy. Các bạn chạy lệnh artisan (Thông tin thêm về artisan)
 
 `php artisan serve`
 
@@ -20,6 +22,14 @@ Trong trường hợp trình duyệt không hiểu thị giao diện cài đặt
 
 để cài đặt.
 
+**Cài đặt phía lệnh artisan**
+
+Chạy lệnh artisan
+
+`php artisan cms:install`
+
+để hiện thị cài đặt theo thuật sĩ.
+
 Trong trường hợp không thể cài đặt. Bạn có thể liên hệ với tác giả để được hỗ trợ, hoặc sử dụng issues của github.
 
 Sau khi cài đặt xong. Bạn truy cập
@@ -27,7 +37,6 @@ Sau khi cài đặt xong. Bạn truy cập
 `localhost:8000/login`
 
 để đăng nhập
-
 
 Truy cập 
 

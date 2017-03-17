@@ -2304,15 +2304,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/phambinh217/cms-install.git",
-            "reference": "76104b2c2202e2dfcff3e5f6ce9074404388a3e6"
+            "reference": "cfbd25a9233418e9e470fe937fdf1af6356f6353"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/phambinh217/cms-install/zipball/76104b2c2202e2dfcff3e5f6ce9074404388a3e6",
-            "reference": "76104b2c2202e2dfcff3e5f6ce9074404388a3e6",
+            "url": "https://api.github.com/repos/phambinh217/cms-install/zipball/cfbd25a9233418e9e470fe937fdf1af6356f6353",
+            "reference": "cfbd25a9233418e9e470fe937fdf1af6356f6353",
             "shasum": ""
         },
-        "time": "2017-03-16 14:15:59",
+        "time": "2017-03-17 01:48:43",
         "type": "library",
         "extra": {
             "phambinhcms-module": {
@@ -2343,15 +2343,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/phambinh217/appearance.git",
-            "reference": "0c4a666ecee99769d7d82151c1790a6e77286c55"
+            "reference": "3fc715851e1c03ae793b24c069fc661f67e9510e"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/phambinh217/appearance/zipball/0c4a666ecee99769d7d82151c1790a6e77286c55",
-            "reference": "0c4a666ecee99769d7d82151c1790a6e77286c55",
+            "url": "https://api.github.com/repos/phambinh217/appearance/zipball/3fc715851e1c03ae793b24c069fc661f67e9510e",
+            "reference": "3fc715851e1c03ae793b24c069fc661f67e9510e",
             "shasum": ""
         },
-        "time": "2017-03-16 14:13:01",
+        "time": "2017-03-17 01:45:21",
         "type": "library",
         "extra": {
             "phambinhcms-module": {
@@ -2382,15 +2382,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/phambinh217/fb-comment.git",
-            "reference": "4a1e28ba10fdbb98577044925cc5bf3ed8d6b8d2"
+            "reference": "bd5afe4ac351f3c80207817e4d9d51c4b067c96d"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/phambinh217/fb-comment/zipball/4a1e28ba10fdbb98577044925cc5bf3ed8d6b8d2",
-            "reference": "4a1e28ba10fdbb98577044925cc5bf3ed8d6b8d2",
+            "url": "https://api.github.com/repos/phambinh217/fb-comment/zipball/bd5afe4ac351f3c80207817e4d9d51c4b067c96d",
+            "reference": "bd5afe4ac351f3c80207817e4d9d51c4b067c96d",
             "shasum": ""
         },
-        "time": "2017-03-16 14:17:24",
+        "time": "2017-03-17 01:51:20",
         "type": "library",
         "extra": {
             "phambinhcms-module": {
@@ -2421,12 +2421,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/phambinh217/cms.git",
-            "reference": "170d32d6885537e6da9157e9fea8be37fa0d2209"
+            "reference": "bb675b6787306d5862186407b4dbf56ac800cdd5"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/phambinh217/cms/zipball/170d32d6885537e6da9157e9fea8be37fa0d2209",
-            "reference": "170d32d6885537e6da9157e9fea8be37fa0d2209",
+            "url": "https://api.github.com/repos/phambinh217/cms/zipball/bb675b6787306d5862186407b4dbf56ac800cdd5",
+            "reference": "bb675b6787306d5862186407b4dbf56ac800cdd5",
             "shasum": ""
         },
         "require": {
@@ -2435,7 +2435,7 @@
             "laravelcollective/html": "^5.3.0",
             "studio-42/elfinder": "^2.1.0"
         },
-        "time": "2017-03-16 14:13:59",
+        "time": "2017-03-16 14:57:59",
         "type": "library",
         "extra": {
             "phambinhcms-module": {
@@ -2466,15 +2466,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/phambinh217/news.git",
-            "reference": "5011208503614d2ea56d5d52a9702c79d2a6d997"
+            "reference": "cf6c212ce69d4514bfe4c838d34375526bbd937e"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/phambinh217/news/zipball/5011208503614d2ea56d5d52a9702c79d2a6d997",
-            "reference": "5011208503614d2ea56d5d52a9702c79d2a6d997",
+            "url": "https://api.github.com/repos/phambinh217/news/zipball/cf6c212ce69d4514bfe4c838d34375526bbd937e",
+            "reference": "cf6c212ce69d4514bfe4c838d34375526bbd937e",
             "shasum": ""
         },
-        "time": "2017-03-16 14:18:04",
+        "time": "2017-03-17 01:53:49",
         "type": "library",
         "extra": {
             "phambinhcms-module": {
