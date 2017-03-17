@@ -41,7 +41,7 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 * Liên tục cập nhật và lắng nghe ý kiến từ cộng đồng
 * ...
 
-## Packages chính thức
+## [Packages chính thức](#packages-chính-thức)
 * [Appearance](https://github.com/phambinh217/appearance)
 * [News](https://github.com/phambinh217/news)
 * [Page](https://github.com/phambinh217/page)
