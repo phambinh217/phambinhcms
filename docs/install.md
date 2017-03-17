@@ -8,19 +8,12 @@ Hiện tại Phambinhcms mới chỉ có mặt trên github, bạn có thể dow
 
 Cập nhật thông tin kết nối đến database của bạn trong file .env
 
-`
-DB_CONNECTION=mysql
-
-DB_HOST=localhost
-
-DB_PORT=3306
-
-DB_DATABASE=
-
-DB_USERNAME=
-
-DB_PASSWORD=
-`
+`DB_CONNECTION=mysql`
+`DB_HOST=localhost`
+`DB_PORT=3306`
+`DB_DATABASE=`
+`DB_USERNAME=`
+`DB_PASSWORD=`
 
 Chạy lệnh artisan ([Tìm hiểu về artisan](https://laravel.com/docs/5.4/artisan))
 
