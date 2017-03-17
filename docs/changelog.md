@@ -1,4 +1,4 @@
-# [#beta-02](Beta 0.2)
+# [Beta 02](#beta-02)
 **Bổ sung - Thay đổi**
 * Giao diện cài đặt có gợi ý chi tiết, chạy cài đặt hiển thị progress bar thể hiện tiến trình cài đặt
 * Hỗ trợ cài đặt bằng terminal `php artisan cms:install`
@@ -9,3 +9,4 @@
 
 **Fix lỗi**
 * Fix lỗi hiển thị không đúng ngôn ngữ
+* Các trang lỗi 404, 403 hiển thị giao diện có css
