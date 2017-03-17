@@ -33,14 +33,14 @@ Route::group(['namespace' => 'Phambinh\Cms\Http\Controllers\Admin', 'middleware'
     Route::get('file/elfinder/stand-alone', 'ElfinderController@standAlone')->name('admin.file.stand-alone')->middleware('can:admin');
     Route::any('file/elfinder/connector', 'ElfinderController@connector')->name('admin.file.connector');
 
-    Route::get('mail/', 'MailController@index')->name('admin.mail.index')->middleware('can:admin')->middleware('can:admin');
-    Route::get('mail/create', 'MailController@create')->name('admin.mail.create')->middleware('can:admin');
-    Route::get('mail/inbox', 'MailController@inbox')->name('admin.mail.inbox')->middleware('can:admin');
-    Route::get('mail/outbox', 'MailController@outbox')->name('admin.mail.outbox')->middleware('can:admin');
-    Route::get('mail/inbox/{id}', 'MailController@inboxShow')->name('admin.mail.inbox.show')->middleware('can:admin');
-    Route::get('mail/outbox/{id}', 'MailController@outboxShow')->name('admin.mail.outbox.show')->middleware('can:admin');
-    Route::get('mail/popup-forward/{id}', 'MailController@popupForward')->name('admin.mail.popup-forward')->middleware('can:admin');
-    Route::post('mail/', 'MailController@store')->name('admin.mail.store')->middleware('can:admin');
+    // Route::get('mail/', 'MailController@index')->name('admin.mail.index')->middleware('can:admin')->middleware('can:admin');
+    // Route::get('mail/create', 'MailController@create')->name('admin.mail.create')->middleware('can:admin');
+    // Route::get('mail/inbox', 'MailController@inbox')->name('admin.mail.inbox')->middleware('can:admin');
+    // Route::get('mail/outbox', 'MailController@outbox')->name('admin.mail.outbox')->middleware('can:admin');
+    // Route::get('mail/inbox/{id}', 'MailController@inboxShow')->name('admin.mail.inbox.show')->middleware('can:admin');
+    // Route::get('mail/outbox/{id}', 'MailController@outboxShow')->name('admin.mail.outbox.show')->middleware('can:admin');
+    // Route::get('mail/popup-forward/{id}', 'MailController@popupForward')->name('admin.mail.popup-forward')->middleware('can:admin');
+    // Route::post('mail/', 'MailController@store')->name('admin.mail.store')->middleware('can:admin');
 
     Route::get('profile', 'ProfileController@show')->name('admin.profile.show')->middleware('can:admin');
     Route::get('profile/change-password', 'ProfileController@changePassword')->name('admin.profile.change-password')->middleware('can:admin');
