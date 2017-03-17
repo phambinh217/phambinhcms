@@ -10,10 +10,15 @@ Cập nhật thông tin kết nối đến database của bạn trong file .env
 
 `
 DB_CONNECTION=mysql
+
 DB_HOST=localhost
+
 DB_PORT=3306
+
 DB_DATABASE=
+
 DB_USERNAME=
+
 DB_PASSWORD=
 `
 
