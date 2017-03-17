@@ -1,4 +1,5 @@
-# [Beta 02](#beta-02)
+# Nhật ký thay đổi
+## [Beta 02](#beta-02)
 **Bổ sung - Thay đổi**
 * Giao diện cài đặt có gợi ý chi tiết, chạy cài đặt hiển thị progress bar thể hiện tiến trình cài đặt
 * Hỗ trợ cài đặt bằng terminal `php artisan cms:install`
