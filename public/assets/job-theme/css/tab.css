@@ -1,0 +1,9 @@
+.portlet.light.form-fit > .portlet-title.tabbable-line.only-tab,
+.portlet-title.tabbable-line.only-tab {
+	padding: 0px;
+}
+
+.portlet.light.form-fit > .portlet-title.tabbable-line.only-tab > .nav-tabs,
+.portlet-title.tabbable-line.only-tab > .nav-tabs {
+	float: left;
+}

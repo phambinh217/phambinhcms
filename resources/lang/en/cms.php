@@ -42,4 +42,6 @@ return [
     'thumbnail' => 'Thumbnail',
     'yes' => 'Yes',
     'no' => 'No',
+    'system-info' => 'System info',
+    'about-phambinhcms' => 'About Phambinhcms',
 ];

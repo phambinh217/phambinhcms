@@ -25,8 +25,6 @@ Sau khi cài đặt xong. Chạy lệnh
 
 `php artisan serve`
 
-**Lưu ý:** Nếu như bạn có chạy lệnh `php artisan serve` từ trước, thì đến bước này phải tắt và chạy lại lệnh mới.
-
 Sau đó truy cập
 
 `localhost:8000/login`

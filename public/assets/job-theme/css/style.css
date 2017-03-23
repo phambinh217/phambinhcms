@@ -1,0 +1,27 @@
+.page-header.navbar .search-form.master-search-form.open,
+.page-header.navbar .search-form.master-search-form {
+    width: 500px !important;
+}
+
+.page-header.navbar .search-form.master-search-form {
+    margin-top: 14px;
+}
+
+.page-header.navbar .search-form.master-search-form .input-group {
+    border-radius: 5px !important;
+    border: none;
+    background: #12a4a3;
+}
+
+.page-header.navbar .search-form.master-search-form .input-group .form-control {
+    text-indent: 0;
+    padding: 6px 12px;
+}
+
+.portlet.light.bordered {
+    border-width: 0 !important;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    z-index: 1;
+    border-radius: 2px;
+}

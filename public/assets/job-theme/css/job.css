@@ -1,0 +1,64 @@
+.job-group.list-group .job-item {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.job-item .job-meta,
+.job-item .job-text,
+.job-item .job-meta {
+	margin-bottom: 10px;
+}	
+
+.job-meta {
+	font-size: 13px;
+}
+
+.job-item .job-meta .job-slary,
+.job-item .job-meta .job-place,
+.job-item .job-meta .job-timeout {
+	border: 1px solid #d9d9d9;
+	padding: 3px;
+	display: inline-block;
+	border-radius: 3px;
+	margin-bottom: 3px;
+}
+
+.portlet.job .author {
+	
+}
+
+.portlet.job .author .time-create {
+	font-size: 13px;
+	color: #999;
+}
+
+.job .job-title {
+	margin-bottom: 10px;
+}
+
+.job .job-thumbnail {
+	margin-bottom: 10px;
+}
+
+.job .job-thumbnail > img {
+	width: 100%;
+}
+
+.job .job-meta {
+	margin-bottom: 7px;
+}
+
+.job .job-content {
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px dotted #d9d9d9;
+}
+
+.job .job-meta .job-slary,
+.job .job-meta .job-place,
+.job .job-meta .job-timeout {
+	display: inline-block;
+	padding-right: 10px;
+	margin-bottom: 3px;
+}
+

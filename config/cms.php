@@ -12,7 +12,7 @@ return [
         \Phambinh\Cms\Providers\RoutingServiceProvider::class,
 
         /**
-         * Packages providers
+         * Phambinh providers
          */
         \Phambinh\Appearance\Providers\ModuleServiceProvider::class,
         \Phambinh\Appearance\Providers\RoutingServiceProvider::class,
@@ -24,6 +24,12 @@ return [
         \Phambinh\FbComment\Providers\RoutingServiceProvider::class,
         \Phambinh\CmsInstall\Providers\ModuleServiceProvider::class,
         \Phambinh\CmsInstall\Providers\RoutingServiceProvider::class,
+
+        /**
+         * Dev
+         */
+        \Phambinh\CmsDev\Providers\ModuleServiceProvider::class,
+        \Phambinh\CmsDev\Providers\RoutingServiceProvider::class,
     ],
 
     'aliases' => [
@@ -50,7 +56,7 @@ return [
         'Image'             =>  \Intervention\Image\Facades\Image::class,
 
         /**
-         * Packages alias
+         * Phambinh alias
          */
         'Menu'              =>  \Phambinh\Appearance\Support\Facades\Menu::class,
         'FbComment'         =>  \Phambinh\FbComment\Support\Facades\Comment::class,
@@ -58,5 +64,19 @@ return [
 
     'commands' => [
         \Phambinh\CmsInstall\Console\Commands\CmsInstall::class,
+        \Phambinh\CmsDev\Console\Commands\MakePackage::class,
+        \Phambinh\CmsDev\Console\Commands\MakeController::class,
+        \Phambinh\CmsDev\Console\Commands\MakeCommand::class,
+        \Phambinh\CmsDev\Console\Commands\MakeEvent::class,
+        \Phambinh\CmsDev\Console\Commands\MakeJob::class,
+        \Phambinh\CmsDev\Console\Commands\MakeListener::class,
+        \Phambinh\CmsDev\Console\Commands\MakeMail::class,
+        \Phambinh\CmsDev\Console\Commands\MakeMiddleware::class,
+        \Phambinh\CmsDev\Console\Commands\MakeModel::class,
+        \Phambinh\CmsDev\Console\Commands\MakeNotification::class,
+        \Phambinh\CmsDev\Console\Commands\MakePolicy::class,
+        \Phambinh\CmsDev\Console\Commands\MakeProvider::class,
+        \Phambinh\CmsDev\Console\Commands\MakeRequest::class,
+        \Phambinh\CmsDev\Console\Commands\MakeWidget::class,
     ],
 ];

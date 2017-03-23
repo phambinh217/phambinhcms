@@ -55,4 +55,5 @@ return [
     'the-email-address-will-be-used-to-login-to-the-account' => 'Địa chỉ email sẽ dùng để đăng nhập tài khoản',
     'logout' => 'Đăng xuất',
     'all-user' => 'Tất cả người dùng',
+    'password' => 'Mật khẩu',
 ];

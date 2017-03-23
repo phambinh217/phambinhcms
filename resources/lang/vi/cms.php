@@ -42,4 +42,6 @@ return [
     'thumbnail' => 'Thumbnail',
     'yes' => 'Có',
     'no' => 'Không',
+    'system-info' => 'Thông tin hệ thống',
+    'about-phambinhcms' => 'Giới thiệu Phambinhcms',
 ];

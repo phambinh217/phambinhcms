@@ -55,4 +55,5 @@ return [
     'the-email-address-will-be-used-to-login-to-the-account' => 'The email address will be used to login to the account',
     'logout' => 'Logout',
     'all-user' => 'All user',
+    'password' => 'Password',
 ];
