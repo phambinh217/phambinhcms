@@ -21,10 +21,15 @@ Việc chạy lệnh trên sẽ giúp phambinhcms thực hiện các thao tác c
 Mở file `phambinhcms/.env` và chỉnh sửa thông tin kết nối đến cơ sở dữ liệu của bạn
 
 `DB_CONNECTION=mysql`
+
 `DB_HOST=localhost`
+
 `DB_PORT=3306`
+
 `DB_DATABASE=<your-database>`
+
 `DB_USERNAME=<your-database-userame>`
+
 `DB_PASSWORD=<your-database-password>`
 
 Sau khi hoàn tất thông tin cấu hình trên. Bạn tiếp tục chạy lệnh
