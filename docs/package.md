@@ -18,7 +18,7 @@ Một thư mục mới sẽ được tạo ra ở thư mục `packages/` theo c�
 
 Bước 2: Chỉnh sửa `composer.json`
 
-`
+```json
 "autoload": {
         "classmap": [
             "database"
@@ -28,7 +28,7 @@ Bước 2: Chỉnh sửa `composer.json`
             "Packages\\TenPackage\\": "packages/ten-package"
         }
     },
-`
+```
 
 Bước 3: Chạy lệnh
 
@@ -36,13 +36,13 @@ Bước 3: Chạy lệnh
 
 Bước 4: Mở `config/cms.php` chỉnh sửa
 
-`
+```php
 	'providers' => [
 		...
 		\Packages\TenPackage\Providers\ModuleServiceProvider::class,
-        \Packages\TenPackage\Providers\RoutingServiceProvider::class,
+        	\Packages\TenPackage\Providers\RoutingServiceProvider::class,
 	]
-`
+```
 
 Giờ bạn đã có thể sử dụng package rồi đó.
 
@@ -79,6 +79,6 @@ Tùy chọn --resource sẽ giúp bạn tạo ra một [controller resource](htt
 
 và còn nhiều artisan console khác, bạn có thể xem bằng cách
 
-`php artisan list`.
+`php artisan list`
 ---
 Package cms-dev vẫn đang trong quá trình hoàn thiện nốt, rất mong nhận được góp ý cũng như báo lỗi từ các bạn.
