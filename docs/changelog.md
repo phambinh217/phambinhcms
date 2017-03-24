@@ -1,4 +1,4 @@
-# [#beta-03](Beta 0.3)
+# [Beta 0.3](#beta-03)
 **Bổ sung - Thay đổi**
 * Khái niệm package, bổ sung packages cms-dev cung cấp nhiều artisan cho package
 * Giao diện trang quản trị hiển thị đẹp trên trên các thiết bị màn hình lớn
@@ -12,7 +12,7 @@
 * Fix lỗi không cập nhật thông tin tác giả
 
 ---------------
-# [#beta-02](Beta 0.2)
+# [Beta 0.2](#beta-02)
 **Bổ sung - Thay đổi**
 * Giao diện cài đặt có gợi ý chi tiết, chạy cài đặt hiển thị progress bar thể hiện tiến trình cài đặt
 * Hỗ trợ cài đặt bằng terminal `php artisan cms:install`
