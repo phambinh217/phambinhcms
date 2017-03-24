@@ -32,8 +32,6 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 
 ## [Tính năng nổi bật](#feature)
 * Laravel 5.4
-* Template admin metronic material
-* Cài đặt đơn giản (Có giao diện)
 * Cấu trúc modular
 * Validate form nhanh chóng
 * Đa ngôn ngữ
