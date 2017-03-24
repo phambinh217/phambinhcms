@@ -70,6 +70,7 @@ Cảm ơn bạn đã sử dụng Phambinhcms, hoặc ít ra bạn đã bỏ chú
 Phambinhcms đang trong thời gian hoàn thiện và phát triển, chúng tôi rất mong nhận được ý kiến đóng góp của các bạn.
 
 ## [Nhật ký thay đổi](#changelog)
+* [beta 0.3](docs/changelog.md#beta-03)
 * [beta 0.2](docs/changelog.md#beta-02)
 
 ## [Tham khảo](#refer)
