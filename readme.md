@@ -22,6 +22,7 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 ## [Tài liệu](#docs)
 * [Giới thiệu](docs/intro.md)
 * [Cài đặt](docs/install.md)
+* [Gói](docs/package.md)
 * (Đang phát triển)
 
 ## [Hỗ trợ](#support)
