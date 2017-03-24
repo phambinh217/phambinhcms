@@ -46,6 +46,7 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 * [News](https://github.com/phambinh217/news)
 * [Page](https://github.com/phambinh217/page)
 * [Facebook Comment](https://github.com/phambinh217/fb-comment)
+* [Cms-dev](https://github.com/phambinh217/cms-dev)
 
 ## [Ảnh chụp màn hình](#images)
 ![Imgur](http://i.imgur.com/L3leUwa.png)
