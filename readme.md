@@ -29,7 +29,7 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 
 [Facebook.com/phambinh217 - Facebook tác giả](https://www.facebook.com/phambinh217)
 
-[Facebook group](https://www.facebook.com/groups/laravel.phambinhcms)
+[Facebook group](https://www.facebook.com/groups/phambinh/)
 
 ## [Tính năng nổi bật](#feature)
 * Laravel 5.4
@@ -66,14 +66,9 @@ Phambinhcms đơn giản giống như một start project đối với dự án 
 
 ## [Từ tác giả](#from-author)
 Cảm ơn bạn đã sử dụng Phambinhcms, hoặc ít ra bạn đã bỏ chút thời gian để ghé qua repo này :))
-Phambinhcms đang trong thời gian hoàn thiện và phát triển, chúng tôi rất mong nhận được ý kiến đóng góp của các bạn.
+
+Vì lý do công việc nên mình không duy trì dự án này nữa. Tuy nhiên bạn vẫn có thể tìm kiếm sự hỗ trợ từ [Group thảo luận của phambinh.net](https://www.facebook.com/groups/phambinh/) nhé
 
 ## [Nhật ký thay đổi](#changelog)
 * [beta 0.3](docs/changelog.md#beta-03)
 * [beta 0.2](docs/changelog.md#beta-02)
-
-## [Tham khảo](#refer)
-Tính đến phiên bản này, CMS có tham khảo
-* [Canvas](#)
-* [Webed](#)
-* [Wordpress](#)
